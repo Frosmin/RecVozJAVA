@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Escucha
+comment1.params=
+comment1.target=Escucha()
+comment2.params=e
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.params=re
+comment3.target=void\ resultAccepted(javax.speech.recognition.ResultEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
